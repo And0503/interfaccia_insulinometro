@@ -5,16 +5,15 @@
 - Il dispositivo applica una piccola tensione alternata a bassa intensità tramite elettrodi posizionati nell’area di interesse. Misurando la corrente risultante è possibile stimare l’impedenza elettrica del tessuto.
 - L’impedenza può variare in funzione della composizione e struttura del tessuto sottocutaneo. Variazioni locali di impedenza possono essere associate a differenze nella distribuzione del tessuto adiposo o alla presenza di tessuto fibrotico/cicatriziale, condizioni che possono influenzare la regolarità dell’assorbimento dell’insulina.
 
-
-- Supporta la modalità:
-  - Single: per misurazione a frequenza singola (consente una misurazione rapida)
-  - Sweep: per misurazione a frequenza variabile, da start a stop con step incrementale (permette la caratterizzazione completa del comportamento in frequenza del tessuto)
- 
+- Supporta le modalità:
+  - **Single**: per misurazione a frequenza singola (consente una misurazione rapida)
+  - **Sweep**: per misurazione a frequenza variabile, da start a stop con step incrementale (permette la caratterizzazione completa del comportamento in frequenza del tessuto)
 
 Include:
 1. Interfaccia grafica adattiva realizzata con **Tkinter**
 2. Comunicazione tramite **Bluetooth Low Energy (BLE)**
 3. Visualizzazione dell’impedenza tramite diagrammi di Bode e Nyquist con **Matplotlib**
+4.  Architettura concorrente basata su **threading e task asincroni** per la gestione simultanea di interfaccia, comunicazione BLE e acquisizione/trasmissione dati
 
 ---
 
