@@ -74,19 +74,22 @@ Per avviare il programma basta eseguire il file di interfaccia.
 3. Selezionare Bluetooth e collegarsi alla board
 4. Ad ogni pressione del tasto **Start**, il LED si accende/spegne
 
----
+## ⚠️ Limitazioni
 
-## ⚠️ Nota che...
+L’interfaccia è un prototipo e non è completa in tutte le sue funzionalità.
 
-L’interfaccia è un prototipo e non è completa in tutte le sue funzionalità:
+In particolare, i seguenti elementi non sono ancora implementati:
 
-- I pulsanti che non sono stati ancora implementati sono i seguenti:
+- Pulsanti:
   - Add Marker
   - Reset Buffer
   - Export
   - Differential
-- Il controllo del livello della batteria dell'insulinometro non è stato ancora implementato
-- La connessione seriale non è stata ancora implementata
-- Il sistema non è stato validato sperimentalmente con un insulinometro reale.
+
+- Funzionalità di sistema:
+  - Controllo del livello della batteria dell’insulinometro
+  - Connessione seriale
+
+Inoltre, il sistema non è stato ancora validato sperimentalmente con un insulinometro reale.
 
 ---
