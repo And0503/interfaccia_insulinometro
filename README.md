@@ -39,10 +39,15 @@ Include:
 
 ---
 ### 🚀 Come eseguire il progetto
-####GATT Server
+**GATT Server**
   1. scaricare nRF connect for mobile
   2. Importare il file insulinometer.xml in allegato nella sezione Configure GATT Server
   3. I valori inviati dal programma verranno visualizzati all’interno dei registri
   4. Per inviare i valori accedere al registro Impedance e inserirli col formato TEXT UTF-8 (i numeri complessi vanno inviati nel formato a+bj), selezionando Notification in Advanced
 
+**ESP32**
+  1.  Caricare il file .ino nella board
+  2.  Avviare il file InterfacciaESP.py
+  3.  Selezionare Bluetooth e collegarsi alla board
+  4.   Ad ogni pressione del tasto Start il led si accenderà/spegnerà
 ---
