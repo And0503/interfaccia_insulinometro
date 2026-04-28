@@ -41,13 +41,6 @@ Include:
 ---
 
 ---
-
-### 📁 Struttura del repo
-| File | Descrizione |
-|------|-------------|
-
----
-
 # 🚀 Come eseguire il progetto
 
 Scaricare i file Python di interfaccia e backend.
