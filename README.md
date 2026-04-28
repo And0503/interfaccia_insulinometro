@@ -8,6 +8,8 @@ Include:
 2. Comunicazione tramite Bluetooth Low Energy (BLE)
 3. Visualizzazione dell’impedenza tramite diagrammi di Bode e Nyquist con Matplotlib
 
+<img width="1716" height="913" alt="image" src="https://github.com/user-attachments/assets/c49c447b-be05-48a5-9b79-5352db17bb1c" />
+
 ---
 ## 👥 Autori
 - Andrea Tito - https://github.com/And0503 
