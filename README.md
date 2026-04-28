@@ -9,11 +9,11 @@
   - **Single**: per misurazione a frequenza singola (consente una misurazione rapida)
   - **Sweep**: per misurazione a frequenza variabile, da start a stop con step incrementale (permette la caratterizzazione completa del comportamento in frequenza del tessuto)
 
-Include:
-1. Interfaccia grafica adattiva realizzata con **Tkinter**
-2. Comunicazione tramite **Bluetooth Low Energy (BLE)**
-3. Visualizzazione dell’impedenza tramite diagrammi di Bode e Nyquist con **Matplotlib**
-4.  Architettura concorrente basata su **threading e task asincroni** per la gestione simultanea di interfaccia, comunicazione BLE e acquisizione/trasmissione dati
+- Include:
+  1. Interfaccia grafica adattiva realizzata con **Tkinter**
+  2. Comunicazione tramite **Bluetooth Low Energy (BLE)**
+  3. Visualizzazione dell’impedenza tramite diagrammi di Bode e Nyquist con **Matplotlib**
+  4.  Architettura concorrente basata su **threading e task asincroni** per la gestione simultanea di interfaccia, comunicazione BLE e acquisizione/trasmissione dati
 
 ---
 
@@ -78,7 +78,7 @@ Per avviare il programma basta eseguire il file di interfaccia.
 ---
 ## ⚠️ Nota che...
 
-L’interfaccia è un prototipo e non è completa in tutte le sue funzionalità.
+Il sistema è stato sviluppato come proof of concept per la comunicazione BLE e la gestione di dati di bioimpedenza, validato sia in ambiente simulato tramite server GATT sia su hardware ESP32 con test di attuazione su LED. L’interfaccia è pertanto un prototipo e non è completa in tutte le sue funzionalità.
 
 In particolare, i seguenti elementi non sono ancora implementati:
 
