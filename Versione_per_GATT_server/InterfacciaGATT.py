@@ -7,8 +7,8 @@ from matplotlib import pyplot as pt
 import asyncio
 from threading import Thread
 
-import BackendTask7_Gruppo_Q as b2
-from BackendTask7_Gruppo_Q import Scanner, Connect_to_device, send_value, listen_for_data
+import BackendGATT as b2
+from BackendGATT import Scanner, Connect_to_device, send_value, listen_for_data
 
 i = 0
 device_list = []
