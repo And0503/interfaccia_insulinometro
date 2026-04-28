@@ -6,8 +6,8 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from matplotlib import pyplot as pt
 import asyncio
 from threading import Thread
-import BackendTask8_Gruppo_Q as bt
-from BackendTask8_Gruppo_Q import BluetoothClass as bc
+import BackendESP as bt
+from BackendESP import BluetoothClass as bc
 
 class interface(tk.Tk):
         
