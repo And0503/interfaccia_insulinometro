@@ -1,7 +1,8 @@
 # interfaccia_insulinometro
 
 ## Descrizione del progetto
-Interfaccia per un insulinometro sperimentale che integra un sistema di analisi di bioimpedenza per il monitoraggio del sito di iniezione. 
+- Interfaccia per un insulinometro sperimentale che integra un sistema di analisi di bioimpedenza per il monitoraggio del sito di iniezione. 
+- Il dispositivo in questione applica una piccola tensione alternata ai capi dei suoi elettrodi intorno al sito di inziezione. A seconda della corrente che effettivamente scorre, è possibile calcolare l'impedenza. Quest'ultima determina la composizione del tessuto epidermico. Eventuali formazioni adipose o cicatriziali evidenziate da range di impedenza caratteristici possono causare malassorbimento dell'insulina.
 
 Include:
 1. Interfaccia realizzata con Tkinter
