@@ -1,0 +1,30 @@
+<server-configuration name="Insulinometer">
+   <service name="Impedance Measurement" uuid="00001000-0000-1000-8000-00805f9b34fb">
+      <characteristic name="Amplitude" uuid="00001001-0000-1000-8000-00805f9b34fb">
+         <permission name="WRITE"/>
+         <property name="WRITE"/>
+      </characteristic>
+      <characteristic name="Initial Frequency" uuid="00001002-0000-1000-8000-00805f9b34fb">
+         <permission name="WRITE"/>
+         <property name="WRITE"/>
+      </characteristic>
+      <characteristic name="Final Frequency" uuid="00001003-0000-1000-8000-00805f9b34fb">
+         <permission name="WRITE"/>
+         <property name="WRITE"/>
+      </characteristic>
+      <characteristic name="Frequency Step" uuid="00001004-0000-1000-8000-00805f9b34fb">
+         <permission name="WRITE"/>
+         <property name="WRITE"/>
+      </characteristic>
+      <characteristic name="Cycles" uuid="00001005-0000-1000-8000-00805f9b34fb">
+         <permission name="WRITE"/>
+         <property name="WRITE"/>
+      </characteristic>
+      <characteristic name="Impedance" uuid="00001006-0000-1000-8000-00805f9b34fb">
+         <descriptor configure="CCCD"/>
+         <permission name="READ"/>
+         <property name="READ"/>
+         <property name="INDICATE"/>
+      </characteristic>
+   </service>
+</server-configuration>
