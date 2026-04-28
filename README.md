@@ -24,7 +24,7 @@ Python 3.13.9
   - Tkinter 8.6 (standard library)
   - matplotlib 3.10.7
   - bleak 3.0.1
-`nRF connect for mobile` di Nordic Semiconductor ASA versione 4.29.1
+nRF connect for mobile di Nordic Semiconductor ASA versione 4.29.1
 Esp32-wroom-32
 ---
 
