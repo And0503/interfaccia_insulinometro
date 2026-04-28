@@ -6,9 +6,9 @@
 - L’impedenza può variare in funzione della composizione e struttura del tessuto sottocutaneo. Variazioni locali di impedenza possono essere associate a differenze nella distribuzione del tessuto adiposo o alla presenza di tessuto fibrotico/cicatriziale, condizioni che possono influenzare la regolarità dell’assorbimento dell’insulina.
 
 Include:
-1. Interfaccia realizzata con Tkinter
-2. Comunicazione tramite Bluetooth Low Energy (BLE)
-3. Visualizzazione dell’impedenza tramite diagrammi di Bode e Nyquist con Matplotlib
+1. Interfaccia grafica adattiva realizzata con **Tkinter**
+2. Comunicazione tramite **Bluetooth Low Energy (BLE)**
+3. Visualizzazione dell’impedenza tramite diagrammi di Bode e Nyquist con **Matplotlib**
 
 ---
 ## Esigenza
