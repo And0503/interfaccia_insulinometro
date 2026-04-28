@@ -92,6 +92,6 @@ In particolare, i seguenti elementi non sono ancora implementati:
   - Controllo del livello della batteria dell’insulinometro
   - Connessione seriale
 
-Inoltre, il sistema non è stato ancora validato sperimentalmente con un insulinometro reale.
+Inoltre, il sistema non è stato validato sperimentalmente con un insulinometro reale.
 
 ---
