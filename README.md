@@ -2,7 +2,8 @@
 
 ## Descrizione del progetto
 - Interfaccia per un insulinometro sperimentale che integra un sistema di analisi di bioimpedenza per il monitoraggio del sito di iniezione. 
-- Il dispositivo in questione applica una piccola tensione alternata ai capi dei suoi elettrodi intorno al sito di inziezione. A seconda della corrente che effettivamente scorre, è possibile calcolare l'impedenza. Quest'ultima determina la composizione del tessuto epidermico. Eventuali formazioni adipose o cicatriziali evidenziate da range di impedenza caratteristici possono causare malassorbimento dell'insulina.
+- Il dispositivo applica una piccola tensione alternata a bassa intensità tramite elettrodi posizionati nell’area di interesse. Misurando la corrente risultante è possibile stimare l’impedenza elettrica del tessuto.
+- L’impedenza elettrica può variare in funzione della composizione e struttura del tessuto sottocutaneo. Variazioni locali di impedenza possono essere associate a differenze nella distribuzione del tessuto adiposo o alla presenza di tessuto fibrotico/cicatriziale, condizioni che possono influenzare la regolarità dell’assorbimento dell’insulina.
 
 Include:
 1. Interfaccia realizzata con Tkinter
