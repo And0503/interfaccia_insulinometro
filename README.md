@@ -40,7 +40,6 @@ Include:
 # 🚀 Come eseguire il progetto
 
 Scaricare i file Python di interfaccia e backend.
-
 Per avviare il programma basta eseguire il file di interfaccia.
 
 ---
