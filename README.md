@@ -39,7 +39,7 @@ Include:
 
 ---
 ### 🚀 Come eseguire il progetto
-- Caricare file python di interfaccia e backend
+- Scaricare file python di interfaccia e backend
 - Per avviare il programma basta eseguire il file di interfaccia
 - **GATT Server**
   1. scaricare nRF connect for mobile
