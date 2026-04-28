@@ -74,6 +74,9 @@ Per avviare il programma basta eseguire il file di interfaccia.
 3. Selezionare Bluetooth e collegarsi alla board
 4. Ad ogni pressione del tasto **Start**, il LED si accende/spegne
 
+---
+
+---
 ## ⚠️ Nota che...
 
 L’interfaccia è un prototipo e non è completa in tutte le sue funzionalità.
