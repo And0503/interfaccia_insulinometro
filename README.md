@@ -47,8 +47,6 @@ Per avviare il programma basta eseguire il file di interfaccia.
 
 ## 📡 GATT Server
 
-:contentReference[oaicite:0]{index=0}
-
 1. Scaricare **nRF Connect for Mobile**
 2. Importare il file `insulinometer.xml` nella sezione **Configure GATT Server**
 3. I valori inviati dal programma verranno visualizzati all’interno dei registri
@@ -61,8 +59,6 @@ Per avviare il programma basta eseguire il file di interfaccia.
 ---
 
 ## ⚙️ ESP32
-
-:contentReference[oaicite:1]{index=1}
 
 1. Caricare il file `.ino` sulla board
 2. Avviare il file `InterfacciaESP.py`
