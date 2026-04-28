@@ -39,6 +39,8 @@ Include:
 
 ---
 ### 🚀 Come eseguire il progetto
+- Caricare file python di interfaccia e backend
+- Per avviare il programma basta eseguire il file di interfaccia
 **GATT Server**
   1. scaricare nRF connect for mobile
   2. Importare il file insulinometer.xml in allegato nella sezione Configure GATT Server
