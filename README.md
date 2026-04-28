@@ -9,16 +9,18 @@ Include:
 3. Visualizzazione dell’impedenza tramite diagrammi di Bode e Nyquist con Matplotlib
 
 ---
-
-## Interfaccia grafica
-
-<img width="1716" height="913" alt="image" src="https://github.com/user-attachments/assets/e7d5a3ae-28cc-45e9-863a-d71d298b8edf" />
+## Esigenza
 
 ---
 ## 👥 Autori
 - Andrea Tito - https://github.com/And0503 
 - Flavio Soldatini - https://github.com/FlavioSol
 ---
+
+---
+## Interfaccia grafica
+
+<img width="1716" height="913" alt="image" src="https://github.com/user-attachments/assets/e7d5a3ae-28cc-45e9-863a-d71d298b8edf" />
 
 ---
 ## ⚙️ Guida tecnica
@@ -71,3 +73,20 @@ Per avviare il programma basta eseguire il file di interfaccia.
 2. Avviare il file `InterfacciaESP.py`
 3. Selezionare Bluetooth e collegarsi alla board
 4. Ad ogni pressione del tasto **Start**, il LED si accende/spegne
+
+---
+
+## ⚠️ Nota che...
+
+L’interfaccia è un prototipo e non è completa in tutte le sue funzionalità:
+
+- I pulsanti che non sono stati ancora implementati sono i seguenti:
+  -Add Marker
+  -Reset Buffer
+  -Export
+  -Differential
+- Il controllo del livello della batteria dell'insulinometro non è stato ancora implementato
+- La connessione seriale non è stata ancora implementata
+-Il sistema non è stato validato sperimentalmente con un insulinometro reale.
+
+---
