@@ -83,10 +83,10 @@ Il sistema è stato sviluppato come proof of concept per la comunicazione BLE e 
 In particolare, i seguenti elementi non sono ancora implementati:
 
 - Funzionalità associate ai pulsanti:
-  - Add Marker
-  - Reset Buffer
-  - Export
-  - Differential
+  - Add Marker per salvare un punto di interesse all’interno dei grafici;
+  - Reset Buffer per svuotare la memoria temporanea dai dati correnti;
+  - Export per salvare i dati acquisiti in un file esterno (ad esempio CSV);
+  - - Differential: consente il confronto tra due acquisizioni successive di impedenza in modalità sweep, calcolando la differenza punto per punto tra le curve e mettendo in evidenza eventuali variazioni del segnale, migliorando la robustezza dell’analisi.
 
 - Funzionalità di sistema:
   - Controllo del livello della batteria dell’insulinometro
