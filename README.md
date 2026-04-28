@@ -20,6 +20,9 @@ Include:
 
 ---
 ## ⚙️ Guida tecnica
+
+<img width="1918" height="1017" alt="Finestra" src="https://github.com/user-attachments/assets/f0797fe5-929b-47b5-bca9-4f09527bd2fb" />
+
 ---
 
 ---
