@@ -11,7 +11,6 @@ Include:
 ---
 
 ## Interfaccia grafica
-<img width="1716" height="913" alt="image" src="https://github.com/user-attachments/assets/c49c447b-be05-48a5-9b79-5352db17bb1c" />
 
 ---
 ## 👥 Autori
