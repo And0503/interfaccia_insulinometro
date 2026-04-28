@@ -28,4 +28,15 @@ Include:
 - Esp32-wroom-32
 ---
 
+---
 
+### 📁 Struttura del repo
+| File | Descrizione |
+|------|-------------|
+
+---
+
+---
+### 🚀 Come eseguire il progetto
+
+---
