@@ -81,12 +81,12 @@ Per avviare il programma basta eseguire il file di interfaccia.
 L’interfaccia è un prototipo e non è completa in tutte le sue funzionalità:
 
 - I pulsanti che non sono stati ancora implementati sono i seguenti:
-  -Add Marker
-  -Reset Buffer
-  -Export
-  -Differential
+  - Add Marker
+  - Reset Buffer
+  - Export
+  - Differential
 - Il controllo del livello della batteria dell'insulinometro non è stato ancora implementato
 - La connessione seriale non è stata ancora implementata
--Il sistema non è stato validato sperimentalmente con un insulinometro reale.
+- Il sistema non è stato validato sperimentalmente con un insulinometro reale.
 
 ---
