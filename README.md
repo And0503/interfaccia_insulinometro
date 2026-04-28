@@ -80,7 +80,7 @@ L’interfaccia è un prototipo e non è completa in tutte le sue funzionalità.
 
 In particolare, i seguenti elementi non sono ancora implementati:
 
-- Pulsanti:
+- Funzionalità associate ai pulsanti:
   - Add Marker
   - Reset Buffer
   - Export
