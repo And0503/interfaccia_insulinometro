@@ -20,6 +20,7 @@ Include:
 
 ---
 ### 🛠️ Tecnologie
+- Visual Studio Code
 - Python 3.13.9 
   - Tkinter 8.6 (standard library)
   - matplotlib 3.10.7
@@ -38,5 +39,10 @@ Include:
 
 ---
 ### 🚀 Come eseguire il progetto
+####GATT Server
+  1. scaricare nRF connect for mobile
+  2. Importare il file insulinometer.xml in allegato nella sezione Configure GATT Server
+  3. I valori inviati dal programma verranno visualizzati all’interno dei registri
+  4. Per inviare i valori accedere al registro Impedance e inserirli col formato TEXT UTF-8 (i numeri complessi vanno inviati nel formato a+bj), selezionando Notification in Advanced
 
 ---
