@@ -55,7 +55,7 @@ Per avviare il programma basta eseguire il file di interfaccia.
    - inserire i dati in formato **TEXT UTF-8**
    - per numeri complessi usare il formato `a+bj`
    - selezionare **Notification** in Advanced
-
+   - premere **Send**
 ---
 
 ## ⚙️ ESP32
